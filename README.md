@@ -31,7 +31,7 @@ To run the Streamlit app locally, follow these steps:
 2. Run the following command in your terminal:
 
 bash
-streamlit run app.py
+streamlit run main.py
 
 
 This will launch a local server and open the app in your default web browser, allowing you to interact with the model by uploading images and generating captions.
